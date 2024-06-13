@@ -27,7 +27,7 @@ function Solarenergy() {
         </div>
         <div className="w-1/2 flex justify-center items-center">
           <Image
-            src="/images/3.png"
+            src="/images/three.png"
             width={400}
             height={450}
             alt="logo"

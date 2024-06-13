@@ -34,7 +34,7 @@ function Footer() {
             <div className="relative overflow-hidden w-64 h-64">
               <div className="absolute top-0 right-0 grid gap-6 w-full h-full clip-circle bg-lime-300">
                 <Image
-                  src={"/images/4.png"}
+                  src={"/images/for.png"}
                   alt={"logo"}
                   width={500}
                   height={500}

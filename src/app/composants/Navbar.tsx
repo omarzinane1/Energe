@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <>
       <nav className="fixed top-0 left-0 min-w-full bg-[#022C22] backdrop-blur-md z-30 px-10">
-        <div className="relative container py-6 flex items-center lg:gap-10 gap-44  transition-all">
+        <div className="relative container py-6 flex items-center lg:justify-start justify-between lg:gap-10  transition-all">
           <Logo />
           {/* desktop navigation */}
           <nav className="hidden md:flex gap-8 capitalize">
